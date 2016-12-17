@@ -3,7 +3,7 @@ Author: Javed Ur Rehman
 Website: https://htmlcssphptutorial.wordpress.com
 */
 
-body {font-family:cursive, Sans-Serif;}
+body {font-family:cursive, Sans-Serif; background-color: #6666ff;}
 .clearfix:before, .clearfix:after { content: ""; display: table; }
 .clearfix:after { clear: both; }
 a {color:#3366ff; text-decoration:none;}
